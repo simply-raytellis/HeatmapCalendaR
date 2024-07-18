@@ -1,5 +1,4 @@
 # HeatmapCalendaR
-An R function to create calendar heatmaps
 
 An R function to display time-series data as a calendar heatmap. Returns a ggplot object.
 
